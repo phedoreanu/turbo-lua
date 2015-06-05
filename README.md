@@ -1,7 +1,7 @@
 # turbo-lua http server json example:
 
 * [`latest` (Dockerfile)](https://github.com/phedoreanu/turbo-lua-example/blob/master/Dockerfile) - _x86_64_
-* [`armhf`  (Dockerfile.armhf)](https://github.com/phedoreanu/turbo-lua-example/blob/master/Dockerfile.armhf) - _armv7l_
+* [`armhf`  (Dockerfile.armhf)](https://github.com/phedoreanu/turbo-lua-example/blob/armhf/Dockerfile) - _armv7l_
 
 ```
 docker run -d \ 

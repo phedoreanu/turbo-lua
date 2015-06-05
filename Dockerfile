@@ -1,6 +1,6 @@
-FROM phedoreanu/luajit-turbo
+FROM phedoreanu/luajit-turbo:latest
 
-MAINTAINER Adrian Fedoreanu, adrian.fedoreanu@gmail.com
+MAINTAINER Adrian Fedoreanu <adrian.fedoreanu@gmail.com>
 
 ADD src/ ./
 

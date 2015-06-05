@@ -1,4 +1,4 @@
-FROM phedoreanu/luajit-turbo:latest
+FROM phedoreanu/luajit-turbo:armhf
 
 MAINTAINER Adrian Fedoreanu <adrian.fedoreanu@gmail.com>
 
